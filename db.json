@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "keywords": [
+    { "Id": 1, "Word": "Graphical Simulator", "Abbrevation": "GSIM" },
+    { "Id": 2, "Word": "Controlguide CommonTech Facility", "Abbrevation": "CTF" },
+    { "Id": 3, "Word": "Technicians Facility – Local", "Abbrevation": "TF-L" },
+    { "Id": 4, "Word": "Technicians Facility – Server", "Abbrevation": "TF-S" },
+    { "Id": 5, "Word": "Technicians Facility – Remote", "Abbrevation": "TF-R" },
+    { "Id": 6, "Word": "Technicians Facility ", "Abbrevation": "TF" },  
+    { "Id": 7, "Word": "Code Collaborator ", "Abbrevation": "CCB" },  
+    { "Id": 8, "Word": "CheckSum ", "Abbrevation": "MD5" }
+  ]  
 }
