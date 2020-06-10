@@ -1,0 +1,105 @@
+{"words" :[
+    {
+        "EntryId": 20,
+        "Word": "Test Word",
+        "Abbrevation": "TT",
+        "WordStatus": 0,
+        "AddedBy": "Nihal",
+        "AddedByEmailId": "Nihal@gmail.com",
+        "AddedByIpAddress": "103.132.244.159",
+        "AddedOn": "2020-04-26T17:12:46.032165",
+        "ModifiedBy": null,
+        "ModifiedOn": null,
+        "ApprovedBy": null,
+        "ApprovedOn": null,
+        "Medias": [
+            {
+                "WordMediaId": 20,
+                "EntryId": 20,
+                "DictionaryEntry": null,
+                "MediaType": "Image",
+                
+            }
+        ],
+        "Descriptions": [
+            {
+                "DescriptionId": 20,
+                "Meaning": "Test Word",
+                "Links": "https://139.10.162.41/projects/favorite",
+                "DescriptionLevel": 0,
+                "Project": "UK Mobility",
+                "EntryId": 20,
+                "DictionaryEntry": null
+            }
+        ]
+    },
+    {
+        "EntryId": 22,
+        "Word": "Test",
+        "Abbrevation": "TTT",
+        "WordStatus": 0,
+        "AddedBy": "Nihal",
+        "AddedByEmailId": "a@gmail.com",
+        "AddedByIpAddress": "57.96.23.76",
+        "AddedOn": "2020-04-27T06:20:25.594283",
+        "ModifiedBy": null,
+        "ModifiedOn": null,
+        "ApprovedBy": null,
+        "ApprovedOn": null,
+        "Medias": [
+            {
+                "WordMediaId": 22,
+                "EntryId": 22,
+                "DictionaryEntry": null,
+                "MediaType": "Image",
+                
+            }
+        ],
+        "Descriptions": [
+            {
+                "DescriptionId": 22,
+                "Meaning": "Test",
+                "Links": "https://www.youtube.com/watch?v=g-C8QJH-NWI",
+                "DescriptionLevel": 0,
+                "Project": "UK Mobility",
+                "EntryId": 22,
+                "DictionaryEntry": null
+            }
+        ]
+    },
+    {
+        "EntryId": 24,
+        "Word": "Nihal",
+        "Abbrevation": "VNK",
+        "WordStatus": 0,
+        "AddedBy": "Nihal",
+        "AddedByEmailId": "nihal@gmail.com",
+        "AddedByIpAddress": "57.96.23.77",
+        "AddedOn": "2020-06-10T10:28:18.703187",
+        "ModifiedBy": null,
+        "ModifiedOn": null,
+        "ApprovedBy": null,
+        "ApprovedOn": null,
+        "Medias": [
+            {
+                "WordMediaId": 24,
+                "EntryId": 24,
+                "DictionaryEntry": null,
+                "MediaType": null,
+                "Image": null
+            }
+        ],
+        "Descriptions": [
+            {
+                "DescriptionId": 24,
+                "Meaning": "Hello",
+                "Links": "",
+                "DescriptionLevel": 0,
+                "Project": "UK Mobility",
+                "EntryId": 24,
+                "DictionaryEntry": null
+            }
+        ]
+    }
+]
+}
